@@ -1,0 +1,197 @@
+.top-container{
+  background-image: url("images/header-image.png");
+  margin-top: 0;
+  padding-bottom: 10rem;
+  background: radial-gradient(rgba(0,0,0,0), rgba(0,0,0,0.8)), url('images/header-image.png');
+  margin-bottom: 0;
+}
+.logo{
+  height: 2.5rem;
+  margin-left: 10rem;
+  margin-top: 1.5rem;
+}
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: black;
+}
+.language{
+  margin-left: 70rem;
+  width: 7rem;
+  height: 2rem;
+  border-radius: 5px;
+  padding-left: 10px;
+  font-size: 17px;
+  padding-right: 0px;
+  color: white;
+  background-color: black;
+}
+.signin{
+  height: 2rem;
+  width: 4.2rem;
+  margin-left: 2rem;
+  border-radius: 5px;
+  background-color: red;
+  color: white;
+}
+.top-text{
+  margin-top: 13.5rem;
+  text-align: center;
+  color: white;
+}
+h1{
+  font-size: 3.5rem;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+.info1{
+  font-size: 1.5rem;
+  margin-top: 10px;
+}
+.top-bar{
+  position: relative;
+}
+.lang-signin{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.info2{
+  font-size: 1.2rem;
+}
+.email{
+  width: 20rem;
+  height: 3rem;
+  border-radius: 5px;
+  border-color: black;
+  padding-left: 1rem;
+  background-color: black;
+}
+.started{
+  height: 3rem;
+  width: 10rem;
+  font-size: 20px;
+  color: white;
+  background-color: red;
+}
+hr{
+  position: relative;
+  margin-top: 0;
+  border: none;
+  height: 10px;
+  background: #232323;
+  margin-bottom: 0;
+}
+.cards{
+  display: flex;
+  background-color: black;
+  color: white;
+  margin-top: 0;
+  padding-bottom: 8rem;
+}
+.text{
+  padding-top: 10rem;
+  padding-left: 10rem;
+}
+.text2{
+  margin-left: 0;
+  padding-top: 10rem;
+  padding-left: 5rem;
+}
+.images{
+  width: 33rem;
+  margin-left: 7.5rem;
+  margin-top: 4rem;
+}
+.images2{
+  width: 33rem;
+  margin-left: 7.5rem;
+  margin-top: 9rem;
+}
+.infoSets{
+  font-size: 1.2rem;
+  margin-bottom: 0;
+}
+.neeche{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.ab{
+  margin-bottom: 0
+}
+.upar{
+  margin-bottom: 0;
+}
+.quest {
+  width: 70%;
+  min-height: 75px;
+  background-color: #303030;
+  color: white;
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  text-align: left;
+  flex-direction: row;
+  margin: 5px 0;
+  margin-left: 13rem;
+  margin-top: 0.7rem;
+}
+
+.quest .textbox {
+  display: flex;
+  text-align: left;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+  align-self: center;
+  font-size: 25px;
+  margin: 0 30px;
+  word-spacing: 5px;
+  text-align: left;
+}
+
+.quest i {
+  margin: 0 30px;
+  font-size: 40px;
+  color: rgb(255, 255, 255);
+}
+
+.quest:focus {
+  background-color: red;
+}
+.question{
+  margin-top: 0;
+  padding-top: 0;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+.q{
+  margin-top: 2rem;
+}
+.abcd{
+  margin-top: 3rem;
+  padding-bottom: 5rem;
+}
+.footer{
+  text-align: left;
+  margin-left: 10rem;
+  padding-top: 5rem;
+}
+.a{
+  margin-left: 23rem;
+}
+.bottom-text{
+  margin-top: 2rem;
+}
+a:link{
+  color: white;
+}
+.bhgf{
+  margin-top: 1rem;
+}
+.l{
+  word-spacing: 22rem;
+}
